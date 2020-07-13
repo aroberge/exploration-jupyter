@@ -1,2 +1,3 @@
 # exploration-jupyter
-Quelques exemples très brefs des cahiers jupyter
+
+Quelques exemples très brefs des cahiers jupyter (Jypyter notebooks).
